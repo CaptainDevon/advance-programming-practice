@@ -11,8 +11,5 @@ a=int(input("enter the value to find factorial for:"))
 result=fact(a)
 print(result)
 
-print("Name:Divyansh Sinha")
-print("RegNo:RA2111026030117")
-print("section:C")
 
 
