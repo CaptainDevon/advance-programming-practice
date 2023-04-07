@@ -11,6 +11,3 @@ p1.name()
 p1.age()
 
 
-print("Name:Divyansh Sinha")
-print("RegNo:RA2111026030117")
-print("section:C")
