@@ -10,7 +10,4 @@ else:
 
 
 
-print("Name:Divyansh Sinha")
-print("RegNo:RA2111026030117")
-print("section:C")
 
